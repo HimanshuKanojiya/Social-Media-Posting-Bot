@@ -5,4 +5,4 @@ This python script to automate the posting on the social media website.
 
 
 **Credits:**
-Google for creating (ChromeDriver)[https://chromedriver.chromium.org/]
+Google for creating [https://chromedriver.chromium.org/](ChromeDriver)
