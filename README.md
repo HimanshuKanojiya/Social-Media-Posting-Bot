@@ -27,5 +27,5 @@ Yes, it is safe. It will use your credentials to only log in to your account, an
 
 
 
-In case of any error or bug, please give report it in <a href="https://github.com/HimanshuKanojiya/Social-Media-Posting-Bot/issues">Issues Tab</a>
+In case of any error or bug, please report it in <a href="https://github.com/HimanshuKanojiya/Social-Media-Posting-Bot/issues">Issues Tab</a>
 
