@@ -5,6 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 import json
+import os
 
 
 class Social_bot:
@@ -18,7 +19,7 @@ class Social_bot:
         self.page_ref = "https://www.facebook.com/pages/?category=your_pages&ref=bookmarks"
         
         #Chrome Driver path, Important
-        self.chromium_path = r"C:\Users\Himanshu\Desktop\Geeks for Geeks\chromedriver_win32\chromedriver.exe"
+        self.chromium_path = os.path.abspath("chromedriver.exe")
         
         #By default session is None, will set after Starting the chrome
         self.browser_session = None
