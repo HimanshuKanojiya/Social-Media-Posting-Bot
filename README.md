@@ -24,3 +24,8 @@ Yes, it is safe. It will use your credentials to only log in to your account, an
 
 **Credits for chromedriver.exe:**
 - Thanks **Google** for creating <a href="https://chromedriver.chromium.org/">ChromeDriver</a> to control the chrome functions.
+
+
+
+In case of any error or bug, please give report it in <a href="https://github.com/HimanshuKanojiya/Social-Media-Posting-Bot/issues">Issues Tab</a>
+
