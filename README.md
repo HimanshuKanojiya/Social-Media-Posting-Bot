@@ -16,7 +16,7 @@ As it is named, this python script automatically login/logout your Facebook acco
   - After performing the two above steps, then we need to open cmd in the **Social bot media posting bot extracted folder** (Open the folder and type the cmd in the file explorer path, it will be on the top).
   - After opening the cmd, type **python socialbotver1.py** in the cmd to run the script.
 
-### Is it safe to use I have given my Facebook credentials?
+### Is it safe to use, and I have given my Facebook credentials?
 Yes, it is safe. It will use your credentials to only log in to your account, and all posting process will happen in front of you. Once you run the running command in cmd, it will open separate/another chrome, and do the posting work.
 **Warning:** Please don't interact with chrome, which will be opened by the script. You can use your other chrome instance to do your work.
 
